@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor.cn/leetcode/editor/cn/[443]压缩字符串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/StringCompression.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/StringCompression.java" />
+              <option name="questionId" value="443" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/StringCompression.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/StringCompression.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/StringCompression.java" />
+              <option name="questionId" value="443" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[38]外观数列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[38]外观数列.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[38]外观数列.java" />
+              <option name="questionId" value="38" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[443]string-compression.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/StringCompression.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/StringCompression.java" />
+              <option name="questionId" value="443" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[443]压缩字符串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/StringCompression.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/StringCompression.java" />
+              <option name="questionId" value="443" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/string-compression.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/StringCompression.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/StringCompression.java" />
+              <option name="questionId" value="443" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/03/_cbw2p695cq3n580m12zmtsw0000gn/T/leetcode/editor/cn/[443]压缩字符串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/StringCompression.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/StringCompression.java" />
+              <option name="questionId" value="443" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
