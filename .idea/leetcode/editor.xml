@@ -3,6 +3,33 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="/var/folders/03/_cbw2p695cq3n580m12zmtsw0000gn/T/leetcode/editor/cn/[443]压缩字符串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/StringCompression.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/StringCompression.java" />
+              <option name="questionId" value="443" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode/src/main/java/leetcode/editor/cn/GetMaximumInGeneratedArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/GetMaximumInGeneratedArray.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/GetMaximumInGeneratedArray.java" />
+              <option name="questionId" value="1646" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode/src/main/java/leetcode/editor/cn/ZigzagConversion.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/ZigzagConversion.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ZigzagConversion.java" />
+              <option name="questionId" value="6" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor.cn/leetcode/editor/cn/[443]压缩字符串.java">
           <value>
             <LeetcodeEditor>
@@ -12,12 +39,120 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/BoatsToSavePeople.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/BoatsToSavePeople.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/BoatsToSavePeople.java" />
+              <option name="questionId" value="881" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/CheapestFlightsWithinKStops.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/CheapestFlightsWithinKStops.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/CheapestFlightsWithinKStops.java" />
+              <option name="questionId" value="787" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/CompareVersionNumbers.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/CompareVersionNumbers.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/CompareVersionNumbers.java" />
+              <option name="questionId" value="165" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/CorporateFlightBookings.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/CorporateFlightBookings.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/CorporateFlightBookings.java" />
+              <option name="questionId" value="1109" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/FindMedianFromDataStream.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/FindMedianFromDataStream.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/FindMedianFromDataStream.java" />
+              <option name="questionId" value="295" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/GetMaximumInGeneratedArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/GetMaximumInGeneratedArray.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/GetMaximumInGeneratedArray.java" />
+              <option name="questionId" value="1646" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/LianBiaoZhongDaoShuDiKgeJieDianLcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/LianBiaoZhongDaoShuDiKgeJieDianLcof.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/LianBiaoZhongDaoShuDiKgeJieDianLcof.java" />
+              <option name="questionId" value="剑指 Offer 22" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/MedianOfTwoSortedArrays.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/MedianOfTwoSortedArrays.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/MedianOfTwoSortedArrays.java" />
+              <option name="questionId" value="4" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/RandomPickWithWeight.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/RandomPickWithWeight.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/RandomPickWithWeight.java" />
+              <option name="questionId" value="528" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ReverseInteger.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/ReverseInteger.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ReverseInteger.java" />
+              <option name="questionId" value="7" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/SmallestKLcci.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/SmallestKLcci.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/SmallestKLcci.java" />
+              <option name="questionId" value="面试题 17.14" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/StringCompression.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/StringCompression.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/StringCompression.java" />
               <option name="questionId" value="443" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ZigzagConversion.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/ZigzagConversion.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/ZigzagConversion.java" />
+              <option name="questionId" value="6" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -49,15 +184,6 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/string-compression.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/StringCompression.md" />
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/StringCompression.java" />
-              <option name="questionId" value="443" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/03/_cbw2p695cq3n580m12zmtsw0000gn/T/leetcode/editor/cn/[443]压缩字符串.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/StringCompression.md" />
